@@ -10,3 +10,4 @@ Just a test repo to experiment with various Git concepts and tools.
 - Working on `feature-c` branch.
 - Improving `feature-c` branch.
 - Working on `feature-d` branch.
+- Working on `feature-e` branch.
