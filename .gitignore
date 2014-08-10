@@ -57,4 +57,4 @@ Icon?
 
 # We also need to update the WebSharks™ Core `dirs_files::ignore()` method if this changes.
 
-test-repo-pro
+test-repo-pro/
